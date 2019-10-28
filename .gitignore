@@ -1,0 +1,8 @@
+
+vendor/
+_*
+*.test
+.DS_Store
+/tmp
+/main
+/cert

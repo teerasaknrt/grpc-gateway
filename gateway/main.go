@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"context"
+	context "context"
 
 	"github.com/golang/glog"
 	runtime "github.com/grpc-ecosystem/grpc-gateway/runtime"
